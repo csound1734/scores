@@ -2,6 +2,12 @@
 i 000 000 000 000 
 #define BARS #*4#
 
+i 367 [8.00 $BARS] 8
+i 366 [10.00 $BARS] 8
+i 365 [12.00 $BARS] 8
+i 364 [14.00 $BARS] 8
+i 363 [16.00 $BARS] 6
+
 i 383 [160.00$BARS] [15.25$BARS] ;almost 16 bars of kick
 i 382 [175.25 $BARS] [.75 $BARS] ;kick fill
 i 383 [176 $BARS] [15.00 $BARS]
