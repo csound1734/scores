@@ -2,9 +2,6 @@
 i 000 000 000 000 
 #define BARS #*4#
 
-i 257 [
-
-
 i 383 [160.00$BARS] [15.25$BARS] ;almost 16 bars of kick
 i 382 [175.25 $BARS] [.75 $BARS] ;kick fill
 i 383 [176 $BARS] [15.00 $BARS]
