@@ -1,0 +1,12 @@
+; ratios for a minorpentatonic scale
+; use GEN23 to import this file into csound like this:
+; f # 0 -5 -23 "minpen.ftable"
+; or (in the orchestra):
+; ftgen 0,0,-5,-23,"minpen.ftable"
+
+1,
+1.20,
+1.33333333,
+1.50,
+1.83333333,
+
